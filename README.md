@@ -23,8 +23,10 @@ Require the package via Composer:
 
 ```bash
 composer require myolbd/unique-slug
+```
 
 ## Configuration
+
 **Service Provider Registration**
 In `config/app.php`, add in `providers` array -
 
