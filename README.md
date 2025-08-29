@@ -11,7 +11,7 @@ Perfect for creating clean URLs for blogs, products, users, and more.
 - Prevents duplicates by auto-appending numbers
 - Configurable separator and max retry count
 - Works with any Eloquent model
-- Supports Laravel 9, 10, and 11
+- Supports Laravel >=7x
 - Includes Facade (`Slug::`) and Service Provider
 - Publishable config file
 
